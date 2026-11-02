@@ -107,7 +107,17 @@ def main():
         page.wait_for_timeout(1000)
         # Collect available months, rather than assuming the season always ends in July.
         print("AFTER FILTER URL:", page.url, flush=True)
-        print("MONTH BUTTONS:", page.locator("button").all_text_contents(), flush=True)
+         for attempt in range(5):
+            try:
+                page.wait_for_load_state("domcontentloaded", timeout=15000)
+                buttons = page.locator("button").all_text_contents(timeout=10000)
+                print("MONTH BUTTONS:", buttons, flush=True)
+                break
+            except Exception as exc:
+                print("Navigation retry:", attempt + 1, str(exc)[:150], flush=True)
+                page.wait_for_timeout(2000)
+        else:
+            raise RuntimeError("Page did not stabilise after filtering")
         print("FILTERED PAGE TEXT:", page.locator("body").inner_text()[:1500], flush=True)
         candidates = page.get_by_role('button').all_text_contents()
         months = []
