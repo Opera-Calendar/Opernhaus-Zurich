@@ -1,0 +1,1333 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Opera Schedules//Opernhaus Zuerich//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Opernhaus Zürich – Oper
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:73982bc810afc54efa4a@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20260101T190000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:4146a445873dab5b58a9@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20260102T140000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:c6d1d826c1d862750ad8@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20260103T130000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:b55133c6bc700d265ec4@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20260103T200000
+SUMMARY:Die lustige Witwe
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:3fbc5ebf4ceca7ceb3b8@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20260106T190000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d92157db22ac34bc1e6@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261104T190000
+SUMMARY:Rachmaninow – Die drei Opern
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d5ba185bf5267b2286c@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261108T130000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:5c4db09a9d6cc2fc9dce@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261108T193000
+SUMMARY:Rachmaninow – Die drei Opern
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:bca83b85d02dd8b47c02@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261115T130000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:6450084ea726d21a561e@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261115T193000
+SUMMARY:Rachmaninow – Die drei Opern
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:6a97aa95414e0ed65365@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261118T190000
+SUMMARY:Rachmaninow – Die drei Opern
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:525c95133bbcdf732ad8@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261119T110000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:a154022a3575cca6cca4@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261121T110000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:76e0dff6a424681fd32f@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261121T190000
+SUMMARY:Rachmaninow – Die drei Opern
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:7d6246fa80e0e6c3f299@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261122T180000
+SUMMARY:Elektra
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:ceb0bc9691d2bcde9467@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261126T110000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:a290716f140510832b63@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261126T190000
+SUMMARY:Elektra
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:154e161ef8744101bc08@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261128T110000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef8d5c0a5f4fabbc484b@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261128T190000
+SUMMARY:Rachmaninow – Die drei Opern
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:dc851b806a9cc7711a69@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261129T200000
+SUMMARY:Das Rheingold
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:f622e6d4f11b80c4a84f@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261202T190000
+SUMMARY:Elektra
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:e9f6ff911e867c518e66@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261204T190000
+SUMMARY:Das Rheingold
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:b5e4f6763a3ec6feeebe@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261205T190000
+SUMMARY:Elektra
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:87988a5fa346815639d5@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261206T140000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:58b4fbfded9902538963@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261210T200000
+SUMMARY:Elektra
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:1664329b479367318a8c@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261211T190000
+SUMMARY:Manon Lescaut
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:c30c87163a2ad8d5e497@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261212T190000
+SUMMARY:Das Rheingold
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:bf18c6d876bd2d5c99d1@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261213T203000
+SUMMARY:Elektra
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f7623d1b11961baee6@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261215T190000
+SUMMARY:Manon Lescaut
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:a6e530dfb68191f87a18@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261216T193000
+SUMMARY:Elektra
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:c885dde1b2771a0a5c9d@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261217T190000
+SUMMARY:Das Rheingold
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:1722b17b532501560f0e@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261218T190000
+SUMMARY:Manon Lescaut
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:def6be91641bbfad8cc3@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261220T180000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:efd39b7e6b1f0d297d15@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261222T190000
+SUMMARY:Manon Lescaut
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:012d23f4ba2e322ad128@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261223T200000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:28928c012129988933a7@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261226T130000
+SUMMARY:Manon Lescaut
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:d766fffcf663627a711a@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261227T130000
+SUMMARY:Die lustige Witwe
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:5a78e04f4b99db0e242f@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261229T190000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:d4421c08a42bd5a30df9@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20261231T180000
+SUMMARY:Die lustige Witwe
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:4396c9dcc1e867f0a649@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270101T190000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:17e23a5ec0422bdc989d@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270102T140000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:fe81e95b35f03e383e5d@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270103T130000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:c21e8946a8b8e00b4920@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270103T200000
+SUMMARY:Die lustige Witwe
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7d8bf3193fad44706ee@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270106T190000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf80e8b737d425b74b8@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270107T110000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:e2e4f66fc8af2724d610@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270107T190000
+SUMMARY:Die lustige Witwe
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:004133ef7c2596d061c3@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270108T180000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:baf1bd8856878db4a514@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270109T193000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:115215328a00a5eac6e3@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270110T140000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:ef974809ebaa9105b5ee@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270110T200000
+SUMMARY:Die lustige Witwe
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:3d015ddc8fe12e4b0c53@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270112T200000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:71cd3e09dbd808ff6653@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270113T190000
+SUMMARY:Die lustige Witwe
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:75385054fbbda9c6ac13@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270115T193000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:761cbc46f5c1021a1a01@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270117T140000
+SUMMARY:Alice im Wunderland
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:fa4dd26377fd330d833e@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270119T190000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:7d00e5638699a26d3bfa@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270123T190000
+SUMMARY:La traviata
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:4d24681c47d3c32d539e@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270124T160000
+SUMMARY:Die Walküre
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:cfa88dbfd35dc1266f89@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270131T140000
+SUMMARY:Die Walküre
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:6ebca9d46cb9690d2290@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270203T173000
+SUMMARY:Die Walküre
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf1d76c5f58a153fe4b@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270206T180000
+SUMMARY:Die Walküre
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:15cc5633d33ef66e79fd@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270207T180000
+SUMMARY:Doctor Atomic
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:08de7ccca07e48eb6a37@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270211T190000
+SUMMARY:Doctor Atomic
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:b336633fb33655f1b8c8@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270212T190000
+SUMMARY:Roméo et Juliette
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:d644e6e3873496e97d8c@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270214T190000
+SUMMARY:Doctor Atomic
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:decb971d8ace6fb8fdc6@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270219T200000
+SUMMARY:Roméo et Juliette
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:e7e896603981d9a51294@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270220T190000
+SUMMARY:Doctor Atomic
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:f0e163da6e2f6cd7939f@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270221T190000
+SUMMARY:Roméo et Juliette
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe30cc20a039c764a55@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270224T190000
+SUMMARY:Doctor Atomic
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:60e8fb1bc917c5ce45cd@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270225T190000
+SUMMARY:La fanciulla del west
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:67e7ef0ba67e74add615@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270228T130000
+SUMMARY:Doctor Atomic
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:21f8fb04b536e9acac2a@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270228T200000
+SUMMARY:La fanciulla del west
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:73aefa14a3074a873a43@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270302T200000
+SUMMARY:Roméo et Juliette
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:a81b6bd54891688d3a70@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270303T190000
+SUMMARY:La fanciulla del west
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c671d8a4f81b942def@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270305T193000
+SUMMARY:Roméo et Juliette
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:c50be8dd91830f85fd4f@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270307T130000
+SUMMARY:La fanciulla del west
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:6622ce42d0fd78a86af2@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270307T200000
+SUMMARY:La clemenza di Tito
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:4b4a7da2964bf18be6fb@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270310T190000
+SUMMARY:La clemenza di Tito
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a7e2ef9a77393f64c8@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270312T193000
+SUMMARY:La clemenza di Tito
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:60a5fe1911f4ef1c7c8a@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270313T190000
+SUMMARY:Ascanio in Alba
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:20c41fb439251ecc44ca@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270314T180000
+SUMMARY:Rinaldo
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:f13218bc24b458795d3e@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270316T190000
+SUMMARY:La clemenza di Tito
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:e20917299e07e028c465@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270318T190000
+SUMMARY:La clemenza di Tito
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:6e69b5ee9ef0b69505e7@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270319T190000
+SUMMARY:Rinaldo
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:651d73e534b1009f3a3c@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270320T190000
+SUMMARY:Ascanio in Alba
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:5df3f187f4d52022fbfd@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270321T193000
+SUMMARY:La clemenza di Tito
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:4d090e923df28e17766d@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270323T190000
+SUMMARY:Rinaldo
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:09a1602768ffd25520fd@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270325T190000
+SUMMARY:Rinaldo
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:13a86dfb710d1b9acf5d@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270327T190000
+SUMMARY:Rinaldo
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:b52593a39b48aebb3344@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270402T190000
+SUMMARY:Die Zauberflöte
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:9a7b1ad2cd1dc51370bf@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270404T193000
+SUMMARY:La fanciulla del west
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:df6694bb09c665282f7c@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270407T190000
+SUMMARY:La fanciulla del west
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:817816cb0966675d06d5@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270408T193000
+SUMMARY:Die Zauberflöte
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:da02e00097f4b0943209@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270410T190000
+SUMMARY:La fanciulla del west
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:d1ff9e5fb2419d40d3f9@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270411T200000
+SUMMARY:Tosca
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:db224a1458d7c48e60d9@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270414T190000
+SUMMARY:Tosca
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:ed8a3dbd2baad40d6427@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270416T190000
+SUMMARY:La fanciulla del west
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:1f740be5e17c5bb5d834@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270417T190000
+SUMMARY:Tosca
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:85bb3a6dc0d5b476f014@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270418T130000
+SUMMARY:Die Zauberflöte
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:6fc0a330bd160b91d7c7@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270420T190000
+SUMMARY:Die Zauberflöte
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:25244fb78ef90c02e147@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270421T190000
+SUMMARY:Tosca
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:81accca84c97c1bdf327@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270423T190000
+SUMMARY:Die Zauberflöte
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:d36b8db470f56a165ea3@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270424T190000
+SUMMARY:Tosca
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:bfedcf9f64ca1e1d0509@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270425T180000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:c68623d516eb67856494@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270427T190000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:a5d38d64fca1173acf8b@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270429T193000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:fff9923ced76cbdb0fa4@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270502T130000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:47b232dd5f0cdbde3acc@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270502T193000
+SUMMARY:Le nozze di Figaro
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d547cb8ad48ac12942@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270504T190000
+SUMMARY:Requiem pour Ophélie
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:7b810a25338bacb0e70e@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270506T130000
+SUMMARY:Le nozze di Figaro
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:1f8cd9966daf172e783d@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270506T200000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:1179c73f89b63949b7bd@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270507T190000
+SUMMARY:Requiem pour Ophélie
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:dbc5f42dcd9dc039183f@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270508T190000
+SUMMARY:Le nozze di Figaro
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:29d2e28b9aea32ba9915@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270509T140000
+SUMMARY:Requiem pour Ophélie
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:1661e042e692c90c715c@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270509T193000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:332f1dc0174998b51adb@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270512T193000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:cbb860feab1eac810e4a@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270513T190000
+SUMMARY:Tosca
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:246a0df962eae546c582@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270514T190000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:d230f12b2bdc995bf764@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270515T190000
+SUMMARY:Le nozze di Figaro
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:04e6e84aae8d30abf3ce@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270517T140000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:810a1c91564a75a0d58c@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270517T200000
+SUMMARY:Tosca
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:197d440b37a9e2d8f432@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270519T190000
+SUMMARY:Le nozze di Figaro
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:f585e72eb72562b07ee5@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270521T190000
+SUMMARY:L'elisir d'amore
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:7a7747bae2d38d742193@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270523T190000
+SUMMARY:Don Pasquale
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:0caf55adaf484885230a@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270527T190000
+SUMMARY:Don Pasquale
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:c85ddc5976ccc22ee3b3@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270604T180000
+SUMMARY:Don Pasquale
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3c225340dbdd8f01be@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270606T200000
+SUMMARY:Don Pasquale
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:f098cfd3b133e565eac1@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270611T190000
+SUMMARY:Don Pasquale
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:f15b0b25c0c84494661b@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270613T180000
+SUMMARY:Samson et Dalila
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:60a1603de87d67ee381a@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270614T200000
+SUMMARY:Sophie Hunger
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:4288661a50b5c4d14bb5@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270616T190000
+SUMMARY:La bohème
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d05727be9e41fc79c5@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270617T190000
+SUMMARY:Samson et Dalila
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:af240b699b5c0cfb2a96@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270618T190000
+SUMMARY:La bohème
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:586db76423e8ebf14414@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270620T140000
+SUMMARY:Samson et Dalila
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:19718969ff7e04c22ea1@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270620T200000
+SUMMARY:Sophie Hunger
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:f330b38c1bb6a95f5a68@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270623T190000
+SUMMARY:La bohème
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8b80ef296220406c36@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270624T190000
+SUMMARY:Samson et Dalila
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1aa8c2cefcdd93237d@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270627T200000
+SUMMARY:Samson et Dalila
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:e582d8a2af83cdec9f66@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270630T190000
+SUMMARY:Samson et Dalila
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:a7c22a62ad219f61348a@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270701T190000
+SUMMARY:Don Carlo
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:3e167241bbc8b1cb32cd@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270702T190000
+SUMMARY:Samson et Dalila
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:427728c07edf492e58ea@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270704T140000
+SUMMARY:La bohème
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:2e60c9c0e2a4a1a298b0@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270706T190000
+SUMMARY:Don Carlo
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:0aa9aa3d5a15348170eb@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270707T190000
+SUMMARY:La bohème
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:34e1bec9f302c12a3bae@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270708T190000
+SUMMARY:Don Carlo
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:29306d1fb08c44389525@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270709T190000
+SUMMARY:Samson et Dalila
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:8e8bb49c50b744c8b71f@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270710T193000
+SUMMARY:La bohème
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+BEGIN:VEVENT
+UID:57aa8be1d87f46dd44a6@opera-schedules
+DTSTAMP:20261102T111650Z
+DTSTART;TZID=Europe/Zurich:20270711T180000
+SUMMARY:Don Carlo
+LOCATION:Hauptbühne Opernhaus\, Zürich
+DESCRIPTION:Spielplan: https://www.opernhaus.ch/spielplan/kalendarium/
+URL:https://www.opernhaus.ch/spielplan/kalendarium/
+END:VEVENT
+END:VCALENDAR
