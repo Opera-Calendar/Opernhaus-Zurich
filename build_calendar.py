@@ -100,7 +100,11 @@ def main():
         print("PAGE TITLE:", page.title(), flush=True)
         print("PAGE URL:", page.url, flush=True)
         print("VISIBLE TEXT:", page.locator("body").inner_text(timeout=10000)[:3000], flush=True)
-        page.get_by_role("button", name="Oper", exact=True).first.click(timeout=10000, force=True)
+        print("BUTTONS:", page.locator("button").all_text_contents(), flush=True)
+        print("OPER TEXT MATCHES:", page.get_by_text("Oper", exact=True).count(), flush=True)
+        print("FILTER TEXT MATCHES:", page.get_by_text("Filtern", exact=True).count(), flush=True)
+        raise RuntimeError("Diagnostic inspection complete")
+
 
 
         page.wait_for_timeout(1000)
