@@ -106,6 +106,9 @@ def main():
 
         page.wait_for_timeout(1000)
         # Collect available months, rather than assuming the season always ends in July.
+        print("AFTER FILTER URL:", page.url, flush=True)
+        print("MONTH BUTTONS:", page.locator("button").all_text_contents(), flush=True)
+        print("FILTERED PAGE TEXT:", page.locator("body").inner_text()[:1500], flush=True)
         candidates = page.get_by_role('button').all_text_contents()
         months = []
         for t in candidates:
