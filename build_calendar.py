@@ -110,7 +110,7 @@ def main():
         for attempt in range(5):
             try:
                 page.wait_for_load_state("domcontentloaded", timeout=15000)
-                buttons = page.locator("button").all_text_contents(timeout=10000)
+                buttons = page.locator("button").all_text_contents()
                 print("MONTH BUTTONS:", buttons, flush=True)
                 break
             except Exception as exc:
