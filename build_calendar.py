@@ -27,6 +27,7 @@ WEEKDAYS = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
 KNOWN_DURATIONS = {
     "elektra": (105, True),
     "die walküre": (300, True),
+    "don pasquale": (145, True),
 }
 ESTIMATES = {
     "la traviata": 165, "alice im wunderland": 115,
@@ -37,7 +38,7 @@ ESTIMATES = {
     "ascanio in alba": 180, "rinaldo": 180,
     "die zauberflöte": 165, "tosca": 160,
     "l'elisir d'amore": 165, "le nozze di figaro": 210,
-    "requiem pour ophélie": 120, "don pasquale": 155,
+    "requiem pour ophélie": 120,
     "samson et dalila": 190, "la bohème": 155,
     "don carlo": 245, "sophie hunger": 120,
 }
@@ -187,6 +188,16 @@ def main():
         browser.close()
     if failures:
         raise RuntimeError(f"Some months failed; refusing incomplete feed: {failures}")
+    # The official Don Pasquale production page lists 30 May 2027 at 19:30,
+    # although the main filtered calendar omitted it in the 2 Nov 2026 scrape.
+    # Supplement only while this exact production month is present in the
+    # schedule, and never add an event that is already in the fetched feed.
+    if (5, 2027) in {(month, year) for month, year, _ in months}:
+        supplemental = datetime(2027, 5, 30, 19, 30, tzinfo=TZ)
+        if supplemental.date() >= datetime.now(TZ).date():
+            title, venue = "Don Pasquale", "Hauptbühne Opernhaus"
+            events.setdefault((supplemental.isoformat(), title, venue),
+                              (supplemental, title, venue))
     if not events:
         raise RuntimeError("No events; refusing empty feed")
     stamp = datetime.now(ZoneInfo("UTC")).strftime("%Y%m%dT%H%M%SZ")
