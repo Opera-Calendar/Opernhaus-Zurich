@@ -100,8 +100,8 @@ def main():
         print("PAGE TITLE:", page.title(), flush=True)
         print("PAGE URL:", page.url, flush=True)
         print("VISIBLE TEXT:", page.locator("body").inner_text(timeout=10000)[:3000], flush=True)
-        page.get_by_role("button", name="Filtern", exact=True).click(timeout=10000)
-        page.get_by_role("button", name="Oper", exact=True).click(timeout=10000)
+        page.get_by_text("Oper", exact=True).first.evaluate("(element) => element.click()")
+
 
 
 
