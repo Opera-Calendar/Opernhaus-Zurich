@@ -4,8 +4,9 @@ Dates/times originate from the official calendar. End times are scheduled durati
 when verified (see KNOWN_DURATIONS), otherwise clearly labelled estimates.
 """
 import hashlib
+import calendar
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -145,6 +146,32 @@ def duration(title):
     return ESTIMATES.get(norm, 180), False
 
 
+def alert_lines(start):
+    """Three wall-clock reminders: prior calendar month, week, and day.
+
+    Absolute UTC triggers avoid the invalid iCalendar idea of a P1M duration,
+    and preserve 19:30 Zurich time across DST transitions.
+    """
+    prior_year = start.year - (start.month == 1)
+    prior_month = 12 if start.month == 1 else start.month - 1
+    prior_day = min(start.day, calendar.monthrange(prior_year, prior_month)[1])
+    triggers = [
+        ("1 month", start.replace(year=prior_year, month=prior_month, day=prior_day)),
+        ("1 week", start - timedelta(days=7)),
+        ("1 day", start - timedelta(days=1)),
+    ]
+    lines = []
+    for label, reminder in triggers:
+        # Recreate a local wall-clock datetime so Zurich DST is applied.
+        local = datetime(reminder.year, reminder.month, reminder.day,
+                         start.hour, start.minute, start.second, tzinfo=TZ)
+        utc = local.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+        lines.extend(["BEGIN:VALARM", "ACTION:DISPLAY",
+                      f"DESCRIPTION:Opera performance in {label}: {escape('Opernhaus Zürich')}",
+                      f"TRIGGER;VALUE=DATE-TIME:{utc}", "END:VALARM"])
+    return lines
+
+
 def main():
     events = {}
     with sync_playwright() as p:
@@ -214,7 +241,9 @@ def main():
                        f"DTSTART;TZID=Europe/Zurich:{start.strftime('%Y%m%dT%H%M%S')}",
                        f"DTEND;TZID=Europe/Zurich:{end.strftime('%Y%m%dT%H%M%S')}",
                        f"SUMMARY:{escape(title)}", f"LOCATION:{escape(venue + ', Zürich')}",
-                       f"DESCRIPTION:{escape(note + ' Spielplan: ' + URL)}", f"URL:{URL}", "END:VEVENT"])
+                       f"DESCRIPTION:{escape(note + ' Spielplan: ' + URL)}", f"URL:{URL}"])
+        output.extend(alert_lines(start))
+        output.append("END:VEVENT")
     output.append("END:VCALENDAR")
     OUT.write_bytes(("\r\n".join(line for item in output for line in fold(item)) + "\r\n").encode())
     print(f"Wrote {len(events)} events to {OUT}")
