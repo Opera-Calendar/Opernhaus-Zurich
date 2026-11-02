@@ -107,7 +107,7 @@ def main():
         page.wait_for_timeout(1000)
         # Collect available months, rather than assuming the season always ends in July.
         print("AFTER FILTER URL:", page.url, flush=True)
-         for attempt in range(5):
+        for attempt in range(5):
             try:
                 page.wait_for_load_state("domcontentloaded", timeout=15000)
                 buttons = page.locator("button").all_text_contents(timeout=10000)
