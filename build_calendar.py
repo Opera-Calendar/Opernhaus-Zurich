@@ -122,7 +122,8 @@ def main():
         candidates = page.get_by_role('button').all_text_contents()
         months = []
         for t in candidates:
-            m = re.fullmatch(r'\s*([A-Za-zÄÖÜäöü]{3})\s+(20\d{2})\s*', t)
+                m = re.fullmatch(r'\s*([A-Za-zÄÖÜäöü]{3})\s+(\d{4})\s*', t)
+
             if m and m.group(1) in MONTHS:
                 key = (MONTHS[m.group(1)], int(m.group(2)), m.group(0).strip())
                 if key not in months:
