@@ -98,17 +98,25 @@ def parse_month(text, expected_month, expected_year):
         if header and header.group(1) in MONTHS:
             month, year = MONTHS[header.group(1)], int(header.group(2))
             day = None
+            # A heading for an adjacent month is normal in this calendar.
+            # Only the selected month is collected in this pass.
             continue
         heading = DAY.fullmatch(line)
         if heading and heading.group(3) in MONTHS:
-            try:
-                candidate = datetime(year, MONTHS[heading.group(3)], int(heading.group(2)))
-            except ValueError:
+            heading_month = MONTHS[heading.group(3)]
+            # The website may display the first days of the NEXT month at
+            # the end of a selected month (e.g. Fr 01 Jan after Dez 2026).
+            # They are handled when that next month is selected explicitly.
+            # Do not interpret them using the selected month's year.
+            if heading_month != expected_month:
                 day = None
                 continue
-            # Fail instead of publishing dates with obviously wrong years.
+            try:
+                candidate = datetime(expected_year, expected_month, int(heading.group(2)))
+            except ValueError as exc:
+                raise RuntimeError(f"Invalid date {line} in {expected_month}/{expected_year}") from exc
             if WEEKDAYS[candidate.weekday()] != heading.group(1):
-                raise RuntimeError(f"Weekday/date mismatch for {line} in {year}")
+                raise RuntimeError(f"Weekday/date mismatch for {line} in {expected_year}")
             day = (candidate.year, candidate.month, candidate.day)
             continue
         clock = TIME.fullmatch(line)
